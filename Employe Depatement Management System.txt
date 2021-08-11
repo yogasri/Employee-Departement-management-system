@@ -1,0 +1,29 @@
+                                           EMPLOYEE-DEPARTEMENT MANAGEMENT SYSTEM
+				        Commands for creating this management system
+
+
+
+1)create table employe(id primary keyemploye,ename varchar(255),age int,depid varchar(50)); employe mismysql
+
+
+2)insert into employe values(3,"jack",43,578)
+
+
+3)select * from employe
+
+
+4)update employe set depid=569 where id=5;
+  select * from employe
+
+
+5)delete from employe where id=3;
+  select * from employe
+
+
+6)create database sai
+
+
+7) select * from employee
+
+
+8) select ename from employe where depid=569
